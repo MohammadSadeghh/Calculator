@@ -1,5 +1,5 @@
 # Calculator
-                                                    a simple calculator with Java swing
+                                            a simple calculator with Java swing
 
 You can calculate a string of numbers and operators like:
 
